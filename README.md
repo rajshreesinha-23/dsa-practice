@@ -10,4 +10,4 @@ Solve 100+ problems
 ## ✅ Problems Done
 - Two Sum
 - Max Element
-- Reverse Array
+
