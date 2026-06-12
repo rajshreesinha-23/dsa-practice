@@ -23,13 +23,16 @@ I am consistently solving problems to improve my problem-solving skills and prep
 
 ## ✅ Problems Solved
 
-### 📌 Arrays
-- ✔️ Two Sum *(Python)*
-- ✔️ Max Element *(Python)*
-- ✔️ Second Largest Element *(C)*
-- ✔️ Check if Array is Sorted *(C)*
-- ✔️ Move Zeros to End *(C)*
-- ✔️ Frequency of Elements in Array *(C)*
+🔢 Arrays
+
+✔️ Two Sum (Python)
+✔️ Max Element (Python)
+✔️ Maximum Subarray Sum (Kadane’s Algorithm) (Python)
+✔️ Array Reversal (Python)
+✔️ Second Largest Element (C)
+✔️ Check if Array is Sorted (C)
+✔️ Move Zeros to End (C & Python)
+✔️ Frequency of Elements in Array (C)
 
 ---
 
