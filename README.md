@@ -9,7 +9,7 @@ I am consistently solving problems to improve my problem-solving skills and prep
 - ✅ Solve **100+ DSA problems**
 - ✅ Build strong problem-solving skills  
 - ✅ Maintain daily coding consistency  
-
+- ✅ Building strong DSA foundation for placements & AI engineering 🚀
 ---
 
 ## 📚 Topics Covered
@@ -20,19 +20,20 @@ I am consistently solving problems to improve my problem-solving skills and prep
 - 🔹 Trees & Graphs *(Coming Soon)*
 
 ---
+# 📌 Arrays DSA
 
-## ✅ Problems Solved
+## Problems Solved
 
-🔢 Arrays
+### Easy
+- Reverse Array
+- Max Element
+- Second Largest Element
+- Check Sorted
 
-✔️ Two Sum (Python)
-✔️ Max Element (Python)
-✔️ Maximum Subarray Sum (Kadane’s Algorithm) (Python)
-✔️ Array Reversal (Python)
-✔️ Second Largest Element (C)
-✔️ Check if Array is Sorted (C)
-✔️ Move Zeros to End (C & Python)
-✔️ Frequency of Elements in Array (C)
+### Medium
+- Two Sum
+- Move Zeros to End
+- Kadane’s Algorithm
 
 ---
 
