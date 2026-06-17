@@ -23,17 +23,22 @@ I am consistently solving problems to improve my problem-solving skills and prep
 # 📌 Arrays DSA
 
 ## Problems Solved
+#  Easy
+Reverse Array
+Max Element
+Second Largest Element
+Check Sorted
 
-### Easy
-- Reverse Array
-- Max Element
-- Second Largest Element
-- Check Sorted
-
-### Medium
-- Two Sum
-- Move Zeros to End
-- Kadane’s Algorithm
+# Medium
+Two Sum
+Move Zeros to End (C & Python)
+Frequency of Elements
+Kadane’s Algorithm
+Majority Element
+Rotate Array by K
+Move Negatives to One Side
+Union of Two Arrays
+Best Time to Buy and Sell Stock
 
 ---
 
