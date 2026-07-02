@@ -23,31 +23,35 @@ I am consistently solving problems to improve my problem-solving skills and prep
 📌 Arrays DSA
 
 A collection of Data Structures & Algorithms (DSA) problems on Arrays implemented in C & Python.
-This repository is structured based on difficulty level and covers important interview questions.
+This repository is structured by difficulty level and covers important coding interview questions.
 
 🚀 Problems Solved
 🟢 Easy
 Reverse Array
 Max Element
 Second Largest Element
-Check Sorted
+Check if Array is Sorted
+Find Peak Element
 🟡 Medium
-Two Sum
+Two Sum (Python)
 Move Zeros to End (C & Python)
+Move Negatives to One Side
 Frequency of Elements
-Kadane’s Algorithm (Maximum Subarray Sum)
+Kadane’s Algorithm (Maximum Subarray Sum) (C & Python)
 Majority Element
 Rotate Array by K
-Move Negatives to One Side
 Union of Two Arrays
 Best Time to Buy and Sell Stock
+Count Subarrays with Sum K
+Longest Subarray with Sum K
+Maximum Subarray Sum (Python)
+Array Reversal (Python)
 🔴 Hard
 Trapping Rain Water
 Product of Array Except Self
-Longest Subarray with Sum K
-Spiral Matrix Traversal 🆕
-Next Permutation 🆕
-
+Minimum Size Subarray Sum
+Spiral Matrix Traversal
+Next Permutation
 ## 🛠️ Languages Used
 - 🟦 C  
 - 🟨 Python  
