@@ -1,27 +1,20 @@
 class Solution:
-    def permute(self, nums):
-        result = []
+    def nextPermutation(self, nums):
+        # Step 1: Find first decreasing element from right
+        i = len(nums) - 2
+        while i >= 0 and nums[i] >= nums[i + 1]:
+            i -= 1
         
-        def backtrack(path, used):
-            # If permutation is complete
-            if len(path) == len(nums):
-                result.append(path[:])
-                return
-            
-            for i in range(len(nums)):
-                if used[i]:
-                    continue
-                
-                # Choose
-                path.append(nums[i])
-                used[i] = True
-                
-                # Explore
-                backtrack(path, used)
-                
-                # Undo (backtrack)
-                path.pop()
-                used[i] = False
+        # Step 2: If found, swap with next larger element
+        if i >= 0:
+            j = len(nums) - 1
+            while nums[j] <= nums[i]:
+                j -= 1
+            nums[i], nums[j] = nums[j], nums[i]
         
-        backtrack([], [False] * len(nums))
-        return result
+        # Step 3: Reverse the remaining part
+        left, right = i + 1, len(nums) - 1
+        while left < right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left += 1
+            right -= 1
